@@ -1,10 +1,12 @@
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-blue)
 
+![Con logo](https://img.shields.io/badge/Git-2.55-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![Workflow](https://img.shields.io/github/actions/workflow/status/andres-dev85/legion-del-mal/ci.yml)
 ![Release](https://img.shields.io/github/v/release/andres-dev85/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/andres-dev85/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/andres-dev85/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/andres-dev85/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/andres-dev85/legion-del-mal?&cacheSeconds=60)
 
 
 
