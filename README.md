@@ -11,7 +11,7 @@
 
 
 
-# 🦹‍♂️ La Legión del Mal - desde remoto y local
+# 🦹‍♂️ La Legión del Mal - desde local
 
 ## ¿Quiénes somos? - remoto y local
 
