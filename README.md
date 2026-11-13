@@ -11,9 +11,10 @@
 
 
 
-# 🦹‍♂️ La Legión del Mal - desde remoto y local
+# 🦹‍♂️ La Legión del Mal - 
 
 ## ¿Quiénes somos? - remoto
+
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
